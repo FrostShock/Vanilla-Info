@@ -1,0 +1,18 @@
+Accountant
+   Logs your WoW incomings / outgoings
+AutoRepair
+   Attempts to Auto Repair your equipment when you visit an able vendor.
+DingRecorder
+   Takes a screenshot when a character levels (aka: dings)
+FeralFighter
+   See notes
+HateMe
+   This is an Aggro tool for warriors and bear form druids.
+TotemTimer
+   Creates Graphical timers for dropped totems and deletes those that get replaced or wear out
+TurnIn
+   Automates turning in of repeatable quests and gossip frames
+Decursive
+   This is a raid cleaning mod. The idea behind this is to itterate though the raid party, and cure who ever needs it. It also work on teams, but was written with raids in mind. Pets were added since some debuffs are PBAoE.
+Zorlen_WarriorSpam
+   Zorlen_WarriorSpam
